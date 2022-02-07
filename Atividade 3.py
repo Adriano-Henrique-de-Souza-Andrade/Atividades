@@ -29,8 +29,6 @@ def triangle(x, y):
         seta.forward(100)
 
 # função built in especial para enviar a atual
-
-
 # posição do cursor para o triangulo
 turtle.onscreenclick(triangle, 1)
 
