@@ -36,5 +36,5 @@ turtle.onscreenclick(triangle, 1)
 
 turtle.listen()
 
-# manter a tela
+# manter a tela 
 turtle.done()
